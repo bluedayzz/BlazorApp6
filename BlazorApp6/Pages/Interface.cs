@@ -7,5 +7,8 @@ namespace BlazorApp6.Pages
 {
     interface Interface
     {
+        //
+        //
+        //
     }
 }
